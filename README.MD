@@ -1,34 +1,14 @@
+[![wakatime](https://wakatime.com/badge/user/db29f863-f894-42b3-a49f-1ddc295fbab8.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
+# 👨‍💻 Saiba mais sobre mim!
+Meu nome é Bruno Ferreira, tenho 16 anos e comecei a programar a 4 anos por curiosidade. Comecei fazendo bots para Discord e hoje faço plugins para Minecraft e outras coisas também. Adoro tecnologia e acompanho bastante a área, também gosto bastante de animes e séries.
 
-# Desvendando um pouco mais sobre mim...! :zap:
+# 🧱 Desenvolvendo informações sobre mim!
 
-Que tal conhecer um pouco mais sobre mim e sobre o que eu posso fazer?
+Utilizo alguns programas para facilitar minha vida durante o desenvolvimento dos projetos, alguns deles são públicos outros são feitos ou adaptados por mim para utilização em projetos privados, alguns dos públicos são:
+- [command-framework](https://github.com/SaiintBrisson/command-framework)
+- [inventory-framework](https://github.com/DevNatan/inventory-framework)
+- [sql-provider](https://github.com/HenryFabio/sql-provider)
 
-- 1 ano de experiência em Java;
-- 2 anos de experiência em JavaScript 
-
-##
-### Tecnologias que eu uso
-+ Linguagens
-
-![Java](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![Koltin](https://img.shields.io/badge/kotlin-red?style=for-the-badge&logo=kotlin&logoColor=white)
-+ Banco de dados
-
-![MongoDB](https://img.shields.io/badge/MongoDB-red.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-red?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white)
-+ Frameworks
-
-![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge&logo=lmbok&logoColor=white)
-![Helper](https://img.shields.io/badge/Helper-red?style=for-the-badge&logo=lmbok&logoColor=white) 
-![Command-Framework](https://img.shields.io/badge/commandframework-red?style=for-the-badge&logo=commandframework&logoColor=white) 
-![inventory-api](https://img.shields.io/badge/inventoryapi-red?style=for-the-badge&logo=commandframework&logoColor=white) 
-![sql-provider](https://img.shields.io/badge/sqlprovider-red?style=for-the-badge&logo=commandframework&logoColor=white) 
-* O helper utilizado é o do Lucko, [confira aqui](https://github.com/lucko/helper)
-
-
-### Estatísticas
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyafter&theme=dracula)
+# 🌹 Converse comigo!
+Para falar comigo, utilizo a rede social "Discord". Mande amizade para ' after#0001.
